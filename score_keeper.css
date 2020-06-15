@@ -1,0 +1,14 @@
+.winner{
+	color: green;
+}
+.losser{
+	color:red;
+}
+strong{
+	color:purple;
+	border-bottom: solid;
+
+}
+body{
+	text-align: center;
+}
